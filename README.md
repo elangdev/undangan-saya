@@ -90,3 +90,4 @@ Berikut adalah struktur direktori proyek yang telah terintegrasi dengan Supabase
 Dengan mengintegrasikan Supabase, Anda dapat dengan mudah mengelola data undangan pernikahan seperti tamu, pesan, dan acara menggunakan Supabase sebagai backend. Anda juga dapat memanfaatkan fitur autentikasi Supabase untuk memungkinkan tamu RSVP atau mengakses halaman pribadi.
 
 ---
+
